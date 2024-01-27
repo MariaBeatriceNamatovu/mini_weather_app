@@ -30,7 +30,7 @@ To run the Weather App locally or deploy it on a web server, follow these steps:
 
 3. **Open Index.html:** Open the `index.html` file in your preferred web browser or set up a local server to serve the files.
 
-## Hosted Url:
+## Hosted Url: **[https://mariabeatricenamatovu.github.io/mini_weather_app/]
 
 ## Usage:
 1. **Search for Location:** Enter a location name or ZIP code in the search bar and press Enter or click the search button.
