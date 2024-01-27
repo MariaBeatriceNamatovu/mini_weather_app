@@ -1,4 +1,4 @@
-**Weather App README**
+**WEATHER APP**
 
 ## Overview:
 This Weather App is a simple web application designed to provide users with real-time weather information for any location worldwide. It utilizes HTML, CSS, and JavaScript to create an intuitive and responsive interface that fetches data from a weather API and displays it to the user.
