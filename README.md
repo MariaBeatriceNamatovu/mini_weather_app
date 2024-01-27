@@ -47,5 +47,5 @@ For any questions, issues, or feedback, please contact namatovutrismari@gmail.co
 ## License:
 This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute the code for personal or commercial use.
 
-!{preview.png}
+![Preview](preview.png)
 
