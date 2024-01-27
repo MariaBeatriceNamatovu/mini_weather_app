@@ -30,7 +30,7 @@ To run the Weather App locally or deploy it on a web server, follow these steps:
 
 3. **Open Index.html:** Open the `index.html` file in your preferred web browser or set up a local server to serve the files.
 
-## Hosted Url: **[https://mariabeatricenamatovu.github.io/mini_weather_app/]
+## Hosted Url: https://mariabeatricenamatovu.github.io/mini_weather_app/
 
 ## Usage:
 1. **Search for Location:** Enter a location name or ZIP code in the search bar and press Enter or click the search button.
@@ -38,7 +38,7 @@ To run the Weather App locally or deploy it on a web server, follow these steps:
 3. **Explore Additional Features:** Feel free to explore additional features or customize the app according to your preferences.
 
 ## Credits:
-- **Weather API Source:** [https://home.openweathermap.org/]
+- **Weather API Source: https://home.openweathermap.org/
 
 
 ## Support:
